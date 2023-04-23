@@ -1,12 +1,21 @@
-header{background-color: bisque;}
+header{
+    background-color: bisque;
+    color:black;
+    border:3px solid black;
+    width: 800px;
+    height: 150px;
+}
 
 
 
 
-body{background-color:aqua}
+body{
+    background-color:blueviolet;
+    color:yellow;
+    border:3px solid black;
+}
 
 info{
+    text-align: center;
     background-color: blueviolet;
-    color:blue;
-    
 }
